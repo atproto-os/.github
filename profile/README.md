@@ -32,7 +32,7 @@ For a comprehensive understanding of the project, please refer to the main repos
 
 ## Focus and Objectives
 
-* **Native Integration with the AT Protocol:**  To deliver a seamless and comprehensive user experience for interacting with applications and data distributed on the AT Protocol. Already, application windows are restored along with their metadata.
+* **Native Integration with the AT Protocol:**  To deliver a seamless and comprehensive user experience for interacting with applications and data distributed on the AT Protocol. Application are restores along with their data.
 * **Modular Web Desktop Environment:** To adopt a modular architecture inherited from Open Web Desktop, ensuring flexibility, customization, and extensibility. Of course, you can also create entirely new themes.
 
 #### Next Steps and Vision
