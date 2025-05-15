@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://atproto-os.pages.dev/" target="_blank" ref="nofollow noindex">
-  <img src="https://i.imgur.com/7dppjV4.png" alt="Web Desktop + AT Protocol" />
+  <img src="https://i.imgur.com/o9b9ALQ.png" alt="Discover atproto OS" />
   </a>
 </p>
 <h1 align="center">atproto OS</h1>
