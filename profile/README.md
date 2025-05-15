@@ -20,7 +20,7 @@ atproto OS is an initiative focused on developing a web platform leveraging the 
 
 atproto OS aims to establish a controlled and customizable digital environment, leveraging the distributed and open architecture of the AT Protocol within an intuitive and familiar windowed user interface. You can customize every aspect with atproto OS.
 
-<a href="https://github.com/new?template_name=atproto-os&template_owner=atproto-os" target="_blank"><img src="https://img.shields.io/badge/Build%20Your-atproto%20OS-blue?style=flat" /></a>
+<a href="https://github.com/new?template_name=atproto-os&template_owner=atproto-os" target="_blank"><img src="https://img.shields.io/badge/Kickstart-atproto%20OS-blue?style=flat" /></a>
 <a href="https://github.com/topics/owd-apps" target="_blank"><img src="https://img.shields.io/badge/Apps-444?style=flat" /></a>
 <a href="https://github.com/topics/owd-modules" target="_blank"><img src="https://img.shields.io/badge/Modules-444?style=flat" /></a>
 <a href="https://github.com/topics/owd-themes" target="_blank"><img src="https://img.shields.io/badge/Themes-444?style=flat" /></a>
