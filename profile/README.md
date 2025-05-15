@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://atproto-os.pages.dev/" target="_blank" ref="nofollow noindex">
+  <a href="https://github.com/new?template_name=atproto-os&template_owner=atproto-os" target="_blank" ref="nofollow noindex">
   <img src="https://i.imgur.com/o9b9ALQ.png" alt="Discover atproto OS" />
   </a>
 </p>
@@ -10,7 +10,11 @@
 
 ## Overview
 
-atproto OS is an initiative focused on developing a web platform leveraging the [Open Web Desktop](https://github.com/owdproject) framework and deeply integrated with the AT Protocol. Our core objective is to provide specialized modules that empower users to host and cultivate their digital gardens within a modular and adaptable web environment, offering a seamless and secure desktop experience.
+atproto OS is an initiative focused on developing a web platform leveraging the [Open Web Desktop](https://github.com/owdproject) framework and deeply integrated with the [AT Protocol](https://atproto.com/). Our core objective is to provide specialized modules that empower users to host and cultivate their digital gardens within a modular and adaptable web environment, offering a seamless and secure desktop experience.
+
+[Try the demo](https://atproto-os.pages.dev) · [Jump to the repository](https://github.com/atproto-os/atproto-os)
+
+<br />
 
 ### Your Digital Garden in a Windowed Environment on the AT Protocol
 
@@ -24,14 +28,18 @@ atproto OS aims to establish a controlled and customizable digital environment, 
 For a comprehensive understanding of the project, please refer to the main repository:  
 [github.com/atproto-os/atproto-os](https://github.com/atproto-os/atproto-os)
 
+<br />
+
 ## Focus and Objectives
 
 * **Native Integration with the AT Protocol:**  To deliver a seamless and comprehensive user experience for interacting with applications and data distributed on the AT Protocol. Already, application windows are restored along with their metadata.
 * **Modular Web Desktop Environment:** To adopt a modular architecture inherited from Open Web Desktop, ensuring flexibility, customization, and extensibility. Of course, you can also create entirely new themes.
 
-### Next Steps and Vision
+#### Next Steps and Vision
 
 The atproto OS project operates as a division of the [Open Web Desktop](https://github.com/owdproject) organization, established to explore and showcase the potential of integrating web-based environments with the AT Protocol. We invite developers, researchers, and enthusiasts of the decentralized web to follow the project's evolution and contribute to its growth.
+
+<br />
 
 ## Sponsors
 
