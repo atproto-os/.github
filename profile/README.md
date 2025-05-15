@@ -7,13 +7,20 @@
 </h3>
 
 ## Overview
+<a href="https://atproto-os.pages.dev/" target="_blank" ref="nofollow noindex">
 <img src="https://i.imgur.com/7dppjV4.png" alt="Web Desktop + AT Protocol" />
+</a>
 
 atproto OS is an initiative focused on developing a web platform leveraging the [Open Web Desktop](https://github.com/owdproject) framework and deeply integrated with the AT Protocol. Our core objective is to provide specialized modules that empower users to host and cultivate their digital gardens within a modular and adaptable web environment, offering a seamless and secure desktop experience.
 
 ### Your Digital Garden in a Windowed Environment on the AT Protocol
 
 atproto OS aims to establish a controlled and customizable digital environment, leveraging the distributed and open architecture of the AT Protocol within an intuitive and familiar windowed user interface. You can customize every aspect with atproto OS.
+
+<a href="https://github.com/new?template_name=atproto-os&template_owner=atproto-os" target="_blank"><img src="https://img.shields.io/badge/Build%20Your-atproto%20OS-blue?style=flat" /></a>
+<a href="https://github.com/topics/owd-apps" target="_blank"><img src="https://img.shields.io/badge/Apps-444?style=flat" /></a>
+<a href="https://github.com/topics/owd-modules" target="_blank"><img src="https://img.shields.io/badge/Modules-444?style=flat" /></a>
+<a href="https://github.com/topics/owd-themes" target="_blank"><img src="https://img.shields.io/badge/Themes-444?style=flat" /></a>
 
 For a comprehensive understanding of the project, please refer to the main repository:  
 [github.com/atproto-os/atproto-os](https://github.com/atproto-os/atproto-os)
