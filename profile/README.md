@@ -27,11 +27,6 @@ For a comprehensive understanding of the project, please refer to the main repos
 
 ## Focus and Objectives
 
-* **Native Integration with the AT Protocol:** To deliver a seamless and comprehensive user experience for interacting with applications and data distributed on the AT Protocol. Applications and their data are already synced automatically when you log in from another device, and we are now exploring new possibilities to make atproto OS more useful and social.
-* **Modular Web Desktop Environment:** To adopt a modular architecture inherited from Open Web Desktop, ensuring flexibility, customization, and extensibility. Of course, you can also create entirely new themes.
-
-#### Next Steps and Vision
-
 The atproto OS project operates as a division of the [Open Web Desktop](https://github.com/owdproject) organization, established to explore and showcase the potential of integrating web-based environments with the AT Protocol. We invite developers, researchers, and enthusiasts of the decentralized web to follow the project's evolution and contribute to its growth.
 
 <br />
