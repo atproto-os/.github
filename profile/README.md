@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/new?template_name=atproto-os&template_owner=atproto-os" target="_blank" ref="nofollow noindex">
-  <img src="https://i.imgur.com/o9b9ALQ.png" alt="Discover atproto OS" />
-  </a>
-</p>
 <h1 align="center">atproto OS</h1>
 <h3 align="center">
   Web Desktops on the AT Protocol.
