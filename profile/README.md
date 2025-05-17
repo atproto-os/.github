@@ -3,15 +3,19 @@
   Web Desktops on the AT Protocol.
 </h3>
 
-## Overview
+<br />
 
+<div align="center">
+  
 atproto OS is an initiative focused on developing a web platform leveraging the [Open Web Desktop](https://github.com/owdproject) framework and deeply integrated with the [AT Protocol](https://atproto.com/). Our core objective is to provide specialized modules that empower users to host and cultivate their digital gardens within a modular and adaptable web environment, offering a seamless and secure desktop experience.
 
 [Try the demo](https://atproto-os.pages.dev) · [Jump to the repository](https://github.com/atproto-os/atproto-os)
 
+</div>
+
 <br />
 
-### Your Digital Garden in a Windowed Environment on the AT Protocol
+## Your Digital Garden in a Windowed Environment
 
 atproto OS aims to establish a controlled and customizable digital environment, leveraging the distributed and open architecture of the AT Protocol within an intuitive and familiar windowed user interface. You can customize every aspect with atproto OS.
 
