@@ -1,6 +1,6 @@
 <h1 align="center">Your Digital Garden in a Windowed Environment</h1>
 <h3 align="center">
-  Web Desktops on the AT Protocol.
+  Open Web Desktop meets AT Protocol.
 </h3>
 
 <br />
