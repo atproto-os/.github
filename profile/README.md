@@ -1,6 +1,6 @@
-<h1 align="center">Web Desktops on the AT Protocol</h1>
+<h1 align="center">atproto-os</h1>
 <h3 align="center">
-  Digital Gardens in a Windowed Environment
+  Web Desktops on the AT Protocol
 </h3>
 
 <br />
