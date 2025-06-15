@@ -1,4 +1,4 @@
-<h1 align="center">Your Digital Garden in a Windowed Environment</h1>
+<h1 align="center">Digital Gardens in a Windowed Environment</h1>
 <h3 align="center">
   Open Web Desktop meets AT Protocol.
 </h3>
